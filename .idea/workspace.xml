@@ -1,7 +1,96 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b0b3387c-e1b6-4b30-84e5-cdf802c29e7f" name="Default" comment="" />
+    <list default="true" id="b0b3387c-e1b6-4b30-84e5-cdf802c29e7f" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/crud/resources/views/index.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitattributes" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/laravelCrud.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/laravelCrud.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/crud/.editorconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/crud/.env.example" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/crud/.gitattributes" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/crud/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/crud/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/crud/app/Console/Kernel.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/crud/app/Exceptions/Handler.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/crud/app/Http/Controllers/Controller.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/crud/app/Http/Kernel.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/crud/app/Http/Middleware/Authenticate.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/crud/app/Http/Middleware/EncryptCookies.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/crud/app/Http/Middleware/PreventRequestsDuringMaintenance.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/crud/app/Http/Middleware/RedirectIfAuthenticated.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/crud/app/Http/Middleware/TrimStrings.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/crud/app/Http/Middleware/TrustHosts.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/crud/app/Http/Middleware/TrustProxies.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/crud/app/Http/Middleware/ValidateSignature.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/crud/app/Http/Middleware/VerifyCsrfToken.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/crud/app/Models/User.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/crud/app/Providers/AppServiceProvider.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/crud/app/Providers/AuthServiceProvider.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/crud/app/Providers/BroadcastServiceProvider.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/crud/app/Providers/EventServiceProvider.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/crud/app/Providers/RouteServiceProvider.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/crud/artisan" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/crud/bootstrap/app.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/crud/bootstrap/cache/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/crud/composer.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/crud/composer.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/crud/config/app.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/crud/config/auth.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/crud/config/broadcasting.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/crud/config/cache.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/crud/config/cors.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/crud/config/database.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/crud/config/filesystems.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/crud/config/hashing.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/crud/config/logging.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/crud/config/mail.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/crud/config/queue.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/crud/config/sanctum.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/crud/config/services.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/crud/config/session.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/crud/config/view.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/crud/database/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/crud/database/factories/UserFactory.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/crud/database/migrations/2014_10_12_000000_create_users_table.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/crud/database/migrations/2014_10_12_100000_create_password_resets_table.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/crud/database/migrations/2019_08_19_000000_create_failed_jobs_table.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/crud/database/migrations/2019_12_14_000001_create_personal_access_tokens_table.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/crud/database/seeders/DatabaseSeeder.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/crud/lang/en/auth.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/crud/lang/en/pagination.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/crud/lang/en/passwords.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/crud/lang/en/validation.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/crud/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/crud/phpunit.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/crud/public/.htaccess" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/crud/public/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/crud/public/index.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/crud/public/robots.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/crud/resources/css/app.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/crud/resources/js/app.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/crud/resources/js/bootstrap.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/crud/resources/views/welcome.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/crud/routes/api.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/crud/routes/channels.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/crud/routes/console.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/crud/routes/web.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/crud/storage/app/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/crud/storage/app/public/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/crud/storage/framework/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/crud/storage/framework/cache/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/crud/storage/framework/cache/data/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/crud/storage/framework/sessions/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/crud/storage/framework/testing/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/crud/storage/framework/views/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/crud/storage/logs/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/crud/tests/CreatesApplication.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/crud/tests/Feature/ExampleTest.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/crud/tests/TestCase.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/crud/tests/Unit/ExampleTest.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/crud/vite.config.js" beforeDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -9,8 +98,72 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="ComposerSettings" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/crud/composer.json</pharConfigPath>
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="EmployeeController.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/crud/app/Http/Controllers/EmployeeController.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="323">
+              <caret line="52" column="37" selection-start-line="52" selection-start-column="31" selection-end-line="52" selection-end-column="37" />
+              <folding>
+                <element signature="e#40#68#0#PHP" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="web.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/crud/routes/web.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="187">
+              <caret line="11" column="17" selection-start-line="11" selection-start-column="17" selection-end-line="11" selection-end-column="17" />
+              <folding>
+                <element signature="e#7#44#0#PHP" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="2023_07_25_172408_create_employees_table.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/crud/database/migrations/2023_07_25_172408_create_employees_table.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="284">
+              <caret line="18" column="31" lean-forward="true" selection-start-line="18" selection-start-column="31" selection-end-line="18" selection-end-column="31" />
+              <folding>
+                <element signature="e#7#52#0#PHP" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.blade.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/crud/resources/views/index.blade.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="493">
+              <caret line="29" column="14" lean-forward="true" selection-start-line="29" selection-start-column="14" selection-end-line="29" selection-end-column="14" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/crud/.env" />
+        <option value="$PROJECT_DIR$/crud/database/migrations/2023_07_25_172408_create_employees_table.php" />
+        <option value="$PROJECT_DIR$/crud/app/Models/Employee.php" />
+        <option value="$PROJECT_DIR$/crud/resources/views/index.blade.php" />
+        <option value="$PROJECT_DIR$/crud/app/Http/Controllers/EmployeeController.php" />
+        <option value="$PROJECT_DIR$/crud/routes/web.php" />
+      </list>
+    </option>
   </component>
   <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
   <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
@@ -19,10 +172,12 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="NodePackageJsonFileManager">
-    <packageJsonPaths />
+    <packageJsonPaths>
+      <path value="$PROJECT_DIR$/crud/package.json" />
+    </packageJsonPaths>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="567" />
+    <option name="x" value="582" />
     <option name="width" value="1342" />
     <option name="height" value="1062" />
   </component>
@@ -31,8 +186,75 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="ProjectPane" />
       <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="laravelCrud" type="b2602c69:ProjectViewProjectNode" />
+              <item name="laravelCrud" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="laravelCrud" type="b2602c69:ProjectViewProjectNode" />
+              <item name="laravelCrud" type="462c0819:PsiDirectoryNode" />
+              <item name="crud" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="laravelCrud" type="b2602c69:ProjectViewProjectNode" />
+              <item name="laravelCrud" type="462c0819:PsiDirectoryNode" />
+              <item name="crud" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="laravelCrud" type="b2602c69:ProjectViewProjectNode" />
+              <item name="laravelCrud" type="462c0819:PsiDirectoryNode" />
+              <item name="crud" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="Http" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="laravelCrud" type="b2602c69:ProjectViewProjectNode" />
+              <item name="laravelCrud" type="462c0819:PsiDirectoryNode" />
+              <item name="crud" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="Http" type="462c0819:PsiDirectoryNode" />
+              <item name="Controllers" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="laravelCrud" type="b2602c69:ProjectViewProjectNode" />
+              <item name="laravelCrud" type="462c0819:PsiDirectoryNode" />
+              <item name="crud" type="462c0819:PsiDirectoryNode" />
+              <item name="database" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="laravelCrud" type="b2602c69:ProjectViewProjectNode" />
+              <item name="laravelCrud" type="462c0819:PsiDirectoryNode" />
+              <item name="crud" type="462c0819:PsiDirectoryNode" />
+              <item name="database" type="462c0819:PsiDirectoryNode" />
+              <item name="migrations" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="laravelCrud" type="b2602c69:ProjectViewProjectNode" />
+              <item name="laravelCrud" type="462c0819:PsiDirectoryNode" />
+              <item name="crud" type="462c0819:PsiDirectoryNode" />
+              <item name="public" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="laravelCrud" type="b2602c69:ProjectViewProjectNode" />
+              <item name="laravelCrud" type="462c0819:PsiDirectoryNode" />
+              <item name="crud" type="462c0819:PsiDirectoryNode" />
+              <item name="routes" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="laravelCrud" type="b2602c69:ProjectViewProjectNode" />
+              <item name="laravelCrud" type="462c0819:PsiDirectoryNode" />
+              <item name="crud" type="462c0819:PsiDirectoryNode" />
+              <item name="storage" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -64,34 +286,35 @@
       <option name="presentableId" value="Default" />
       <updated>1690297462101</updated>
       <workItem from="1690297463273" duration="362000" />
+      <workItem from="1690298895243" duration="3218000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="362000" />
+    <option name="totallyTimeSpent" value="3580000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="567" y="0" width="1342" height="1062" extended-state="0" />
+    <frame x="582" y="0" width="1342" height="1062" extended-state="0" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.21450858" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2176287" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
-      <window_info anchor="right" id="Database" />
-      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+      <window_info anchor="right" id="Database" order="3" />
+      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Run" order="2" />
-      <window_info anchor="bottom" id="Version Control" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info active="true" anchor="bottom" id="Terminal" visible="true" weight="0.32903227" />
+      <window_info anchor="bottom" id="Terminal" order="7" visible="true" weight="0.2924731" />
+      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info id="Favorites" side_tool="true" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -99,5 +322,61 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/crud/.env">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="27" column="19" lean-forward="true" selection-start-line="27" selection-start-column="19" selection-end-line="27" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/crud/app/Models/Employee.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="6" selection-start-line="16" selection-start-column="6" selection-end-line="16" selection-end-column="6" />
+          <folding>
+            <element signature="e#30#84#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/crud/resources/views/index.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="493">
+          <caret line="29" column="14" lean-forward="true" selection-start-line="29" selection-start-column="14" selection-end-line="29" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/crud/database/migrations/2023_07_25_172408_create_employees_table.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="284">
+          <caret line="18" column="31" lean-forward="true" selection-start-line="18" selection-start-column="31" selection-end-line="18" selection-end-column="31" />
+          <folding>
+            <element signature="e#7#52#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/crud/routes/web.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="17" selection-start-line="11" selection-start-column="17" selection-end-line="11" selection-end-column="17" />
+          <folding>
+            <element signature="e#7#44#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/crud/app/Http/Controllers/EmployeeController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="52" column="37" selection-start-line="52" selection-start-column="31" selection-end-line="52" selection-end-column="37" />
+          <folding>
+            <element signature="e#40#68#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
   </component>
 </project>
